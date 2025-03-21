@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+mysql-connector-python
+MarkupSafe
+nltk
+transformers
+eventlet
